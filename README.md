@@ -188,4 +188,8 @@ Con `nmap -p 80 DIRECCION_IP`.
 
 Para detectar problemas, prevenir fallos y mejorar el rendimiento del sistema.
 
-## 7. Con
+## 7. Conclusión
+
+La práctica ha permitido conocer herramientas de Linux para monitorizar procesos, memoria, almacenamiento, red y puertos, facilitando la administración y detección de problemas del sistema
+
+
